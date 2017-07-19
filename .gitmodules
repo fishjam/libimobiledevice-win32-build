@@ -1,0 +1,12 @@
+[submodule "libplist"]
+	path = libplist
+	url = https://github.com/fishjam/libplist.git
+[submodule "libusbmuxd"]
+	path = libusbmuxd
+	url = https://github.com/fishjam/libusbmuxd.git
+[submodule "libimobiledevice"]
+	path = libimobiledevice
+	url = https://github.com/fishjam/libimobiledevice.git
+[submodule "ideviceinstaller"]
+	path = ideviceinstaller
+	url = https://github.com/fishjam/ideviceinstaller.git
