@@ -1,12 +1,16 @@
 [submodule "libplist"]
 	path = libplist
 	url = https://github.com/fishjam/libplist.git
+	branch = msvc-master
 [submodule "libusbmuxd"]
 	path = libusbmuxd
 	url = https://github.com/fishjam/libusbmuxd.git
+	branch = msvc-master
 [submodule "libimobiledevice"]
 	path = libimobiledevice
 	url = https://github.com/fishjam/libimobiledevice.git
+	branch = msvc-master
 [submodule "ideviceinstaller"]
 	path = ideviceinstaller
 	url = https://github.com/fishjam/ideviceinstaller.git
+	branch = msvc-master
